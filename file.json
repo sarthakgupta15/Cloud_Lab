@@ -1,0 +1,39 @@
+{
+    "books":[
+    {
+    "id":1,
+    "title": "To_Kill_a_Mockingbird",
+    "author": "Harper_Lee",
+    "publication_year": 1960,
+    "cost": 10.99
+    },
+    {
+    "id":2,
+    "title": "1984",
+    "author": "George_Orwell",
+    "publication_year": 1949,
+    "cost": 9.99
+    },
+    {
+    "id":3,
+    "title": "The_Great_Gatsby",
+    "author": "F._Scott_Fitzgerald",
+    "publication_year": 1925,
+    "cost": 11.99
+    },
+    {
+    "id":4,
+    "title": "Pride_and_Prejudice",
+    "author": "Jane_Austen",
+    "publication_year":1813,
+    "cost":8.99
+    },
+    {
+    "id":5,
+    "title": "The_Catcher_in_the_Rye",
+    "author": "J.D._Salinger",
+    "publication_year":1951,
+    "cost":12.99
+    }
+    ]
+}

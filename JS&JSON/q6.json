@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sarthak",
+    "marks": "82",
+    "batch": "B14",
+    "grade": "A"
+  },
+  {
+    "name": "abc",
+    "marks": "87",
+    "batch": "B14",
+    "grade": "A"
+  },
+  {
+    "name": "xyz",
+    "marks": "96",
+    "batch": "B14",
+    "grade": "A+"
+  }
+]
